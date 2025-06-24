@@ -33,8 +33,9 @@ Streamlit (if used)
 LangChain (optional, depending on usage)
 
 ### 📂 Project Structure
-
+```bash
 app.py              # Main application logic
 ollama_utils.py     # LLM query functions
 requirements.txt    # Python dependencies
 sample_document.txt # Example legal document
+```
