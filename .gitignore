@@ -17,3 +17,6 @@ Thumbs.db
 # Docker (optional)
 Dockerfile
 .dockerignore
+
+# Ignore Python virtual environments
+new_venv/
